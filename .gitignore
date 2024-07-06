@@ -3,6 +3,7 @@ node_modules/
 /playwright-report/
 /blob-report/
 /playwright/.cache/
+/tests-examples/
 
 .vscode/*
 !.vscode/settings.json
@@ -12,4 +13,3 @@ node_modules/
 *.code-workspace
 
 user.js
-/tests-examples/
